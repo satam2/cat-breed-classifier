@@ -1,2 +1,8 @@
-# temp-name-ml-project
-Project for CS 171 Intro to ML, Fall 2025. Details tbd.
+# <Title>
+Authors: Sandy Tam, Christina Vo
+
+Description of Question and Research Topic (5 Sentences)
+Project Outline/Plan
+Data Collection Plan (two parts, one for each author)
+Model Plans (two parts, one for each author)
+Project Timeline
