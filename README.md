@@ -21,9 +21,15 @@ Christina: I plan on using a Logistic Regression model for the characteristics d
 
 ### Project Timeline
 **Week of 10/21 and 10/23** - Search for Datasets
+<br>
 **Week of 10/28 and 10/30** - Clean and Preprocess Datasets
+<br>
 **Week of 11/4 and 11/6** - Code and Train Models
+<br>
 **Week of 11/11 and 11/13** - Analyze Results
+<br>
 **Week of 11/18 and 11/20** - Create Presentation and Final Project Meetings
+<br>
 **Week of 11/25 and 11/27** - Prepare for Project Presentation
+<br>
 **Week of 12/2 and 12/4** - Final Project Presentations
