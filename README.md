@@ -2,7 +2,7 @@
 Authors: Sandy Tam, Christina Vo
 
 ### Description of Research Topic
-This project will aim to answer the question of: how can we utilize convolutional neural netowrks to distinguish between different cat breeds using only image data and logistic regression to determine the cat breed as the output? By collecting, labeling, and training on a collected dataset, we will investigate what balance of dataset size, complexity, and generalization leads to the best performing model. We will analyze which visual features and data characteristics most influence model decisions. 
+This project will aim to answer the question of: how can we utilize convolutional neural networks to distinguish between different cat breeds using only image data and logistic regression to determine the cat breed as the output? By collecting, labeling, and training on a collected dataset, we will investigate what balance of dataset size, complexity, and generalization leads to the best performing model. We will analyze which visual features and data characteristics most influence model decisions. 
 <br>
 
 ### Project Outline
