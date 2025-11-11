@@ -10,7 +10,7 @@ For our project outline, we will first search for our datasets, specifically loo
 <br>
 
 ### Data Collection Plan
-Sandy: I will gather high quality, diverse cat breed data from various sources including Kaggle, Google Dataset Search, and other academic repositories. Then, I will process the data to ensure consistency and split it into training, testing, and validation sets. I plan to use data augmentation techniques to increase the diversity of the dataset. This step is to prevent overfitting and allow the CNN to distinguish subtle differences between the different cat breeds.
+Sandy: I will gather high quality, diverse cat breed data from various sources such as Kaggle. Then, I will process the data to ensure consistency and split it into training and testing sets. I plan to use data augmentation techniques to increase the diversity of the dataset. This step is to prevent overfitting and allow the CNN to distinguish subtle differences between the different cat breeds. I will also manually procure and process some images for the validation set.
 
 <br>
 Christina: When looking for cat breed datasets, there are two different data I want to look for. For one dataset, it would need to contain images in order to compare different cat breeds based on visuals. As for the other dataset, it would need to contain the different characteristics of cat breeds to find the relationships in order to identify the cat breed.
