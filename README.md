@@ -2,7 +2,7 @@
 Authors: Sandy Tam, Christina Vo
 <br>
 ### Description of Research Topic
-This project aims to explore how can we utilize machine learning models, CNN and logisitic regression, to distinguish between different cat breeds using only image data. By collecting, labeling, and training on a collected dataset, we will investigate what balance of dataset size, complexity, and generalization leads to the best performing model. Furthermore, we will analyze which visual features and data characteristics most influence model decisions. 
+This project aims to explore how can we utilize machine learning models, CNN and logisitic regression, to distinguish between different cat breeds. By collecting, labeling, and training on a collected dataset, we will investigate what balance of dataset size, complexity, and generalization leads to the best performing model. Furthermore, we will analyze which visual features and data characteristics most influence model decisions. 
 <br>
 
 ### Project Outline
@@ -16,7 +16,7 @@ Sandy: I will gather high quality, diverse cat breed data from various sources s
 Christina: When looking for cat breed datasets, there are two different data I want to look for. For one dataset, it would need to contain images in order to compare different cat breeds based on visuals. As for the other dataset, it would need to contain the different characteristics of cat breeds to find the relationships in order to identify the cat breed.
 
 ### Model Plans
-Sandy: I plan to design and implement a simple CNN using PyTorch. The initial model will consist of two layers, followed by pooling layers, fully connected layers, and a softmax output layer. I will experiment with various kernel sizes, activatoin functions, and optimizers to find the best performing model. To address training efficiency and concerns of overfitting, I will incorporate batch normalization and dropout layers. The model's performance will be evaluated using metrics such as accuracy and F1-score.
+Sandy: I plan to design and implement a simple CNN using PyTorch. The initial model will consist of two layers, followed by pooling layers, fully connected layers, and a softmax output layer. I will experiment with various kernel sizes, activation functions, and optimizers to find the best performing model. To address training efficiency and concerns of overfitting, I will incorporate batch normalization and dropout layers. The model's performance will be evaluated using metrics such as accuracy and F1-score.
 
 <br>
 Christina: I plan on using a Logistic Regression model for the characteristics dataset as it can help in finding the relationships between features such as fur color, fur length, body weight, and other traits to identify the breed. I would test the data with train-test splitting and normalization to ensure that the model performs well. 
