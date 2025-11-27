@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+﻿# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
@@ -28,6 +28,7 @@ MANIFEST
 
 # ignore editor settings
 .vscode/
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -208,3 +209,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# data stuff
+CNN/data/
+*.pt
