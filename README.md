@@ -124,6 +124,60 @@ print("Using device:", device)  # Check current device
 - **Poor Performance**: Try adjusting learning rate, increasing epochs, or experimenting with different kernel sizes
 - **Checkpoint Issues**: Delete the `checkpoints/` folder to start completely fresh
 
+
+### Logistic Regression Dependencies
+To run the Logistic Regression model, you will need the following packages:
+
+### Core Dependencies
+- __Python 3.x__ (recommended 3.8 or higher)
+- __NumPy__
+  ```bash
+  pip install numpy
+  ```
+- __Matplotlib__
+  ```bash
+  pip install matplotlib
+  ```
+- __Pandas__
+  ```bash
+  pip install pandas
+  ```
+- __Scikit-learn__
+- ```bash
+  pip install sklearn
+  ```
+
+### 1. How to Run the Logistic Regression
+Run the preprocessing.ipynb and ensure that the cleaned dataset is in the following structure:
+```
+LogisticRegression/
+├── data/
+│   ├── cat_breeds_dirty
+│   ├── cat_breeds_clean
+│       
+│       
+│   
+```
+
+### 2. Configure the Training Parameters
+Open Cat Breed Classifier (LR).ipynb and changed the parameters to your liking to test the model
+- `learning_rate`: learning rate of optimizer (default: 0.1)
+- `n_iters`: numbers of iterations (deafult: 1000)
+- `random_seed`: random number generator (default: 1)
+
+### 3. Run the Model
+Run the model using Jupyter Notebook
+1. Navigate to the LogisticRegression directory
+2. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+3. Open `Cat Breed Classifier (LR).ipynb`
+4. Run all cells sequentially
+
+### 5. Review Results
+Results will be under the last call of Cat Breed Classifier (LR).ipynb
+
 ### Project Timeline
 **Week of 10/21 and 10/23** - Search for Datasets
 <br>
