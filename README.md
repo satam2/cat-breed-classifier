@@ -192,3 +192,14 @@ Results will be under the last call of Cat Breed Classifier (LR).ipynb
 **Week of 11/25 and 11/27** - Prepare for Project Presentation
 <br>
 **Week of 12/2 and 12/4** - Final Project Presentations
+
+If we were to continue working on this project, we would pursue the following enhancements:
+
+#### CNN Improvements
+- **Transfer Learning**: Implement pre-trained models (ResNet, VGG16, EfficientNet) and fine-tune them on our cat breed dataset to leverage learned features from larger datasets
+- **Attention Mechanisms**: Add attention layers to help the model focus on distinguishing features like ear shape, face structure, and fur patterns
+- **Better Dataset**: Expand the dataset with more images per breed, use higher quality images, and include rarer breeds
+- **Web Interface**: Create a user-friendly web application for breed prediction with confidence scores
+- **Age and Gender Prediction**: Extend model to predict additional cat characteristics
+
+#### Logisitic Regression Improvements
